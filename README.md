@@ -56,38 +56,6 @@ A voice-driven intelligent billing system that transforms speech into structured
 📑 Invoice + Dashboard Update
 ---
 
----
-
-## 📸 UI Preview
-
-<div align="center">
-
-### 🖥️ Animated Landing Page
-<img src="https://via.placeholder.com/900x450.png?text=Animated+Landing+Page" width="80%"/>
-
-<br><br>
-
-### 🔐 Signup Flow
-<img src="https://via.placeholder.com/900x450.png?text=Signup+Page" width="80%"/>
-
-<br><br>
-
-### 📊 CashFlow Dashboard
-<img src="https://via.placeholder.com/900x450.png?text=CashFlow+Dashboard" width="80%"/>
-
-<br><br>
-
-### 🎙️ Voice Recording Interface
-<img src="https://via.placeholder.com/900x450.png?text=Voice+Input+Module" width="80%"/>
-
-<br><br>
-
-### 📑 Generated Invoice Output
-<img src="https://via.placeholder.com/900x450.png?text=Auto+Generated+Invoice" width="80%"/>
-
-</div>
-
----
 
 ## 💡 Why This Project Matters
 
